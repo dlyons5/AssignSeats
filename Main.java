@@ -6,5 +6,5 @@ class Main {
    for (int i = i++)
    {
       
-   }
+  }
 }
