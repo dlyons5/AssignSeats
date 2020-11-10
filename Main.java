@@ -12,11 +12,17 @@ class Main {
    for (i = 0; i < 15; i++){
       System.out.println(classmates[i]);   
 
-  
-  for ( i = 0; i < names.length; i++)
+   for ( i = 0; i < classmates.length; i++)
      {
-         System.out.println( names[i] );     
+         System.out.println( classmates[i] );     
      }
+      
+    
+      
+      
+      
+      
+      
        }
      }
     }
