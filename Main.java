@@ -1,4 +1,7 @@
+ import java.util.Scanner;
+
 class Main {
+ 
   public static void main(String[] args) {
    
    int[] seatNumbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 };
@@ -17,15 +20,15 @@ class Main {
          System.out.println( classmates[i] );     
      }
     
-  import java.util.Scanner;
+   Scanner scan = new Scanner(System.in);
+//scanner is going to ask the name of the student    
+    System.out.println("What is your name?");
+    
+    String name = scan.next();
 
-    Scanner scan = new Scanner(System.in);
-//scanner is going to ask two questions   
-    System.out.println("");
-    int number = scan.nextInt();
+
    
-    System.out.println("");
-    int number2 = scan.nextInt();
+    
 
     
 
