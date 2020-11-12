@@ -16,15 +16,20 @@ class Main {
      {
          System.out.println( classmates[i] );     
      }
+    
+  import java.util.Scanner;
+
+    Scanner scan = new Scanner(System.in);
+//scanner is going to ask two questions   
+    System.out.println("");
+    int number = scan.nextInt();
+   
+    System.out.println("");
+    int number2 = scan.nextInt();
 
     
 
-    
-      
-      
-      
-      
-      
+
       }
      }
     }
