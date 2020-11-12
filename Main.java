@@ -26,15 +26,13 @@ class Main {
     
     String name = scan.next();
 
-
+for (int count = 1; count <= 15; count++)
+     {
+        System.out.println(count);
    
-    
-
-    
-
-
-      }
-     }
+    }
+   }
+   }
     }
   }
 }
