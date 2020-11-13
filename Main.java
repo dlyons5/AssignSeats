@@ -30,9 +30,9 @@ for (int count = 2; count <= 15; count++)
      {
         System.out.println(count);
    
-    }
-   }
-   }
+          }
+        } 
+      }
     }
   }
 }
